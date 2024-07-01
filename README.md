@@ -7,13 +7,14 @@ This application supports the  <a href="https://devcenter.heroku.com/articles/ge
 
 # Running Locally
 Make sure you have Node.js and the Heroku CLI installed.
- 
+
     $ git clone git@github.com:jomaoppa/node-js-template.git # or clone your own fork
     $ cd node-js-template
     $ npm install 
     $ npm start
-Your app should now be running on 
-<a href="http://localhost:5000/" rel="nofollow">localhost:5000</a>
+
+   
+Your app should now be running on  <a href="http://localhost:5000/" rel="nofollow">localhost:5000</a>
 
 
 Deploying to Heroku 
