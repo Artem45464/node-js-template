@@ -7,3 +7,8 @@ This application supports the Getting Started with Node on Heroku article - chec
 # Running Locally
 Make sure you have Node.js and the Heroku CLI installed.
 
+
+Your app should now be running on localhost:5000.
+
+Deploying to Heroku
+
