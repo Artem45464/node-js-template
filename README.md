@@ -1,8 +1,9 @@
 # node-js-template
 
-A barebones Node.js app using Express 4.
+A barebones Node.js app using 
+<a href="http://expressjs.com/" rel="nofollow">Express 4</a>
 
-This application supports the Getting Started with Node on Heroku article - check it out.
+This application supports the  <a href="https://devcenter.heroku.com/articles/getting-started-with-nodejs" rel="nofollow">Getting Started with Node on Heroku</a>  the article  - check it out.
 
 # Running Locally
 Make sure you have Node.js and the Heroku CLI installed.
@@ -11,7 +12,9 @@ Make sure you have Node.js and the Heroku CLI installed.
     $ cd node-js-template
     $ npm install 
     $ npm start
-Your app should now be running on localhost:5000.
+Your app should now be running on 
+<a href="http://localhost:5000/" rel="nofollow">localhost:5000</a>
+
 
 Deploying to Heroku 
 
