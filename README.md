@@ -9,8 +9,8 @@ Make sure you have Node.js and the Heroku CLI installed.
  
     $ git clone git@github.com:jomaoppa/nor
     $ cd node-js-template
-     $ npm install 
-     $ npm start
+    $ npm install 
+    $ npm start
 Your app should now be running on localhost:5000.
 
 Deploying to heroku 
