@@ -1,5 +1,9 @@
 # node-js-template
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+A barebones Node.js app using Express 4.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+This application supports the Getting Started with Node on Heroku article - check it out.
+
+# Running Locally
+Make sure you have Node.js and the Heroku CLI installed.
+
