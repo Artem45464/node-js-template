@@ -6,10 +6,15 @@ This application supports the Getting Started with Node on Heroku article - chec
 
 # Running Locally
 Make sure you have Node.js and the Heroku CLI installed.
-
-
+ 
+    ($ git clone git@github.com:jomaoppa/nor
+    $ cd node-js-template
+     $ npm install $ npm start
 Your app should now be running on localhost:5000.
 
-Deploying to Heroku
+Deploying to heroku 
 
-    d
+  ($ heroku create
+   $ git push heroku master  
+    $ heroku open
+
