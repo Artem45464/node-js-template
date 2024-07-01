@@ -6,7 +6,7 @@ A barebones Node.js app using
 This application supports the  <a href="https://devcenter.heroku.com/articles/getting-started-with-nodejs" rel="nofollow">Getting Started with Node on Heroku</a>  the article  - check it out.
 
 # Running Locally
-Make sure you have Node.js and the Heroku CLI installed.
+<p dir="auto">Make sure you have <a href="http://nodejs.org/" rel="nofollow">Node.js</a> and the <a href="https://cli.heroku.com/" rel="nofollow">Heroku CLI</a> installed.</p>
 
     $ git clone git@github.com:jomaoppa/node-js-template.git # or clone your own fork
     $ cd node-js-template
@@ -23,3 +23,8 @@ Deploying to Heroku
     $ git push heroku master  
     $ heroku open
 
+   or 
+
+   <a href="https://heroku.com/deploy" rel="nofollow"><img src="https://camo.githubusercontent.com/a45640b9f85b4daa9a7c8b106e324e58d2114cccd227df20185a04d931411701/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e706e67" alt="Deploy to Heroku" data-canonical-src="https://www.herokucdn.com/deploy/button.png" style="max-width: 100%;"></a>
+
+ 
