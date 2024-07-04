@@ -23,3 +23,4 @@ Deploying to Heroku
     $ git push heroku master  
     $ heroku open
 
+<a href="https://heroku.com/deploy" rel="nofollow"><img src="https://www.heroku.com/home" alt="Deploy to Heroku" data-canonical-src="https://www.herokucdn.com/deploy/button.png" style="max-width: 100%;"></a>
