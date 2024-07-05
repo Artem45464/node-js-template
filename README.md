@@ -17,7 +17,7 @@ This application supports the  <a href="https://devcenter.heroku.com/articles/ge
 Your app should now be running on  <a href="http://localhost:5000/" rel="nofollow">localhost:5000</a>
 
 
-Deploying to Heroku 
+# Deploying to Heroku 
 
     $ heroku create
     $ git push heroku master  
