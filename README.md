@@ -23,6 +23,8 @@ Your app should now be running on  <a href="http://localhost:5000/" rel="nofollo
     $ git push heroku master  
     $ heroku open
     
+  
+ 
    or 
     
 <a href="https://www.heroku.com/home" rel="nofollow">
