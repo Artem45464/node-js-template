@@ -21,10 +21,11 @@ Your app should now be running on  <a href="http://localhost:5000/" rel="nofollo
 
 # Deploying to Heroku 
 
+   ```bash
     $ heroku create
     $ git push heroku master  
     $ heroku open
-    
+   ```
   
  
    or 
