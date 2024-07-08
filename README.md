@@ -9,10 +9,10 @@ This application supports the  <a href="https://devcenter.heroku.com/articles/ge
 <p dir="auto">Make sure you have <a href="http://nodejs.org/" rel="nofollow">Node.js</a> and the <a href="https://cli.heroku.com/" rel="nofollow">Heroku CLI</a> installed.</p>
 
  ```bash
-    git clone git@github.com:Artem45464/node-js-template.git # or clone your own fork 
-    cd node-js-template
-    npm install
-    npm start
+  $ git clone git@github.com:Artem45464/node-js-template.git # or clone your own fork 
+  $ cd node-js-template
+  $ npm install
+  $ npm start
    ```
 
 
