@@ -29,7 +29,6 @@ Your app should now be running on  <a href="http://localhost:5000/" rel="nofollo
   
  
    or 
-    
-<a href="https://www.heroku.com/home" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/a45640b9f85b4daa9a7c8b106e324e58d2114cccd227df20185a04d931411701/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e706e67" alt="Deploy to Heroku" data-canonical-src="https://www.herokucdn.com/deploy/button.png" style="max-width: 100%;">
-</a>
+
+   [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/home)
+
