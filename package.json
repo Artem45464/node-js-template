@@ -1,7 +1,7 @@
 {
   "name": "node-js-template",
   "version": "1.0.0",
-  "description": "joma's template",
+  "description": "Artem's template",
   "main": "index.js",
   "dependencies": {
     "ejs": "^2.5.9",
@@ -21,10 +21,10 @@
   "keywords": [
     "node"
   ],
-  "author": "Joma",
+  "author": "Artem",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
+    "url": "https://github.com/Artem/node-js-template/issues"
   },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": "https://github.com/Artem/node-js-template#readme"
 }
